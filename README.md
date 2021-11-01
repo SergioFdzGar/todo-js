@@ -1,6 +1,6 @@
-# Webpack Starter
+# TODO App: listado de tareas en JavaScript.
 
-Proyecto inicial de para crear aplicaciones utilizando webpack.
+Proyecto de listado de tareas en JavaScript.
 
 ### Notas:
 Debe de reconstruir los modulos Node:
